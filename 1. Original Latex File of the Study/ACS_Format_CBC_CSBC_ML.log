@@ -1,0 +1,1211 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.11)  22 JUL 2025 09:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ACS_Format_CBC_CSBC_ML.tex
+(./ACS_Format_CBC_CSBC_ML.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-14>
+(c:/texlive/2025/texmf-dist/tex/latex/achemso/achemso.cls
+Document Class: achemso 2025-04-11 v3.13j Submission to ACS journals
+(c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(c:/texlive/2025/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count272
+\c@section=\count273
+\c@subsection=\count274
+\c@subsubsection=\count275
+\c@paragraph=\count276
+\c@subparagraph=\count277
+\c@figure=\count278
+\c@table=\count279
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen146
+)
+(c:/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(c:/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(c:/texlive/2025/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count280
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\acs@bib@file=\write3
+\c@bibnote=\count281
+
+(c:/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count282
+\Gm@cntv=\count283
+\c@Gm@tempcnt=\count284
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks19
+)
+(c:/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(c:/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen155
+\captionmargin=\dimen156
+\caption@leftmargin=\dimen157
+\caption@rightmargin=\dimen158
+\caption@width=\dimen159
+\caption@indent=\dimen160
+\caption@parindent=\dimen161
+\caption@hangindent=\dimen162
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count285
+\c@continuedfloat=\count286
+)
+(c:/texlive/2025/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count287
+\float@exts=\toks20
+\float@box=\box53
+\@float@everytoks=\toks21
+\@floatcapt=\box54
+)
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
+)
+(c:/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(c:/texlive/2025/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\acs@author@cnt=\count288
+\acs@affil@cnt=\count289
+\acs@affil@alt@cnt=\count290
+\acs@footnote@cnt=\count291
+\acs@affil@marker@cnt=\count292
+\acs@space@pre@title=\skip51
+\acs@space@post@title=\skip52
+\acs@space@post@author=\skip53
+\acs@space@post@address=\skip54
+\acs@space@post@email=\skip55
+\acs@maketitle@width=\skip56
+\@float@every@scheme=\toks22
+\c@scheme=\count293
+\@float@every@chart=\toks23
+\c@chart=\count294
+\@float@every@graph=\toks24
+\c@graph=\count295
+\@float@every@table=\toks25
+\acs@collect@toks=\toks26
+\acs@collect@empty@toks=\toks27
+\acs@tocentry@height=\skip57
+\acs@tocentry@width=\skip58
+
+(c:/texlive/2025/texmf-dist/tex/latex/achemso/achemso-jacsat.cfg
+File: achemso-jacsat.cfg 2025-04-11 v3.13j achemso configuration: J. Am. Chem. 
+Soc.
+)
+(c:/texlive/2025/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip59
+\bibsep=\skip60
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count296
+)
+(c:/texlive/2025/texmf-dist/tex/latex/achemso/natmove.sty
+Package: natmove 2010/01/15 v1.1a Automatic citation moving with natbib
+))
+(c:/texlive/2025/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
+
+(c:/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-04-14 L3 programming layer (loader) 
+
+(c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count297
+))
+(c:/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count298
+\calc@Bcount=\count299
+\calc@Adimen=\dimen165
+\calc@Bdimen=\dimen166
+\calc@Askip=\skip61
+\calc@Bskip=\skip62
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count300
+\calc@Cskip=\skip63
+)
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip64
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks28
+\ex@=\dimen167
+))
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen168
+)
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count301
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count302
+\leftroot@=\count303
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count304
+\DOTSCASE@=\count305
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen169
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count306
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count307
+\dotsspace@=\muskip18
+\c@parentequation=\count308
+\dspbrk@lvl=\count309
+\tag@help=\toks29
+\row@=\count310
+\column@=\count311
+\maxfields@=\count312
+\andhelp@=\toks30
+\eqnshift@=\dimen170
+\alignsep@=\dimen171
+\tagshift@=\dimen172
+\tagwidth@=\dimen173
+\totwidth@=\dimen174
+\lineht@=\dimen175
+\@envbody=\toks31
+\multlinegap=\skip65
+\multlinetaggap=\skip66
+\mathdisplay@stack=\toks32
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(c:/texlive/2025/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+(c:/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count313
+\g__chemgreek_tmpa_int=\count314
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count315
+\__mhchem_arrow_extPgfLength_skip=\skip67
+\mhchem@minispace@tmp=\skip68
+\mhchem@minibackspace@tmp=\skip69
+\mhchem@bondwidth=\skip70
+\mhchem@bondheight=\skip71
+\mhchem@smallbondwidth@tmpA=\skip72
+\mhchem@smallbondwidth@tmpB=\skip73
+\mhchem@smallbondwidth=\skip74
+\mhchem@bondtmp@minussidebearingleft=\skip75
+\mhchem@bondtmp@minussidebearingright=\skip76
+\l__mhchem_option_version_int=\count316
+\mhchem@option@minusmathsidebearingleft=\dimen176
+\mhchem@option@minusmathsidebearingright=\dimen177
+\mhchem@option@minustextsidebearingleft=\dimen178
+\mhchem@option@minustextsidebearingright=\dimen179
+)
+(c:/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks33
+\inpenc@posthook=\toks34
+)
+(c:/texlive/2025/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(c:/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box57
+\beforetitleunit=\skip77
+\aftertitleunit=\skip78
+\ttl@plus=\dimen180
+\ttl@minus=\dimen181
+\ttl@toksa=\toks35
+\titlewidth=\dimen182
+\titlewidthlast=\dimen183
+\titlewidthfirst=\dimen184
+)
+(c:/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count317
+)
+(c:/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip79
+\f@nch@offset@elh=\skip80
+\f@nch@offset@erh=\skip81
+\f@nch@offset@olh=\skip82
+\f@nch@offset@orh=\skip83
+\f@nch@offset@elf=\skip84
+\f@nch@offset@erf=\skip85
+\f@nch@offset@olf=\skip86
+\f@nch@offset@orf=\skip87
+\f@nch@height=\skip88
+\f@nch@footalignment=\skip89
+\f@nch@widthL=\skip90
+\f@nch@widthC=\skip91
+\f@nch@widthR=\skip92
+\@temptokenb=\toks36
+)
+(c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(c:/texlive/2025/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip93
+\RaggedLeftLeftskip=\skip94
+\RaggedRightLeftskip=\skip95
+\CenteringRightskip=\skip96
+\RaggedLeftRightskip=\skip97
+\RaggedRightRightskip=\skip98
+\CenteringParfillskip=\skip99
+\RaggedLeftParfillskip=\skip100
+\RaggedRightParfillskip=\skip101
+\JustifyingParfillskip=\skip102
+\CenteringParindent=\skip103
+\RaggedLeftParindent=\skip104
+\RaggedRightParindent=\skip105
+\JustifyingParindent=\skip106
+)
+(c:/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(c:/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(c:/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(c:/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(c:/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(c:/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(c:/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count318
+)
+(c:/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen185
+\Hy@linkcounter=\count319
+\Hy@pagecounter=\count320
+
+(c:/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(c:/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count321
+
+(c:/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count322
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen186
+
+(c:/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count323
+\Field@Width=\dimen187
+\Fld@charsize=\dimen188
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(c:/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count324
+\c@Item=\count325
+\c@Hfootnote=\count326
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(c:/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+
+(c:/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count327
+\c@bookmark@seq@number=\count328
+
+(c:/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip107
+)
+(c:/texlive/2025/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+(c:/texlive/2025/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box58
+)
+(c:/texlive/2025/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen189
+\ar@mcellbox=\box59
+\extrarowheight=\dimen190
+\NC@list=\toks37
+\extratabsurround=\skip108
+\backup@length=\skip109
+\ar@cellbox=\box60
+)
+(c:/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip110
+\LTright=\skip111
+\LTpre=\skip112
+\LTpost=\skip113
+\LTchunksize=\count329
+\LTcapwidth=\dimen191
+\LT@head=\box61
+\LT@firsthead=\box62
+\LT@foot=\box63
+\LT@lastfoot=\box64
+\LT@gbox=\box65
+\LT@cols=\count330
+\LT@rows=\count331
+\c@LT@tables=\count332
+\c@LT@chunks=\count333
+\LT@p@ftn=\toks38
+)
+(c:/texlive/2025/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(./ACS_Format_CBC_CSBC_ML.aux
+
+Package natbib Warning: Citation `araujo2018interdisciplinarity' multiply defin
+ed.
+
+
+Package natbib Warning: Citation `article' multiply defined.
+
+
+Package natbib Warning: Citation `ijms19061578' multiply defined.
+
+
+Package natbib Warning: Citation `sellamuthu2023analog' multiply defined.
+
+
+Package natbib Warning: Citation `sun202290' multiply defined.
+
+
+Package natbib Warning: Citation `pinzi2024drug' multiply defined.
+
+
+Package natbib Warning: Citation `martis2011highHTS' multiply defined.
+
+
+Package natbib Warning: Citation `chen2025fragment' multiply defined.
+
+
+Package natbib Warning: Citation `batool2019structure' multiply defined.
+
+
+Package natbib Warning: Citation `garaci2024PDD' multiply defined.
+
+
+Package natbib Warning: Citation `ammad2014integrative' multiply defined.
+
+
+Package natbib Warning: Citation `cereto2015MF' multiply defined.
+
+
+Package natbib Warning: Citation `christie1990MACCS' multiply defined.
+
+
+Package natbib Warning: Citation `rogers2010extended' multiply defined.
+
+
+Package natbib Warning: Citation `morgan1965generation' multiply defined.
+
+
+Package natbib Warning: Citation `keith2021qSAR' multiply defined.
+
+
+Package natbib Warning: Citation `gao2023uni-qsar' multiply defined.
+
+
+Package natbib Warning: Citation `ChEMBL2023' multiply defined.
+
+
+Package natbib Warning: Citation `Cytion_HCT116' multiply defined.
+
+
+Package natbib Warning: Citation `gomatam2024SMOTE' multiply defined.
+
+
+Package natbib Warning: Citation `SML-formulas' multiply defined.
+
+
+Package natbib Warning: Citation `zhou2024dataquality' multiply defined.
+
+)
+\openout1 = `ACS_Format_CBC_CSBC_ML.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+\openout3 = `acs-ACS_Format_CBC_CSBC_ML.bib'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.2698pt, 469.75539pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 650.43037pt, 72.2698pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75539pt
+* \textheight=650.43037pt
+* \oddsidemargin=-0.00018pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-37.00018pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+(c:/texlive/2025/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: threeparttable package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count334
+\scratchdimen=\dimen192
+\scratchbox=\box66
+\nofMPsegments=\count335
+\nofMParguments=\count336
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count337
+\MPscratchDim=\dimen193
+\MPnumerator=\count338
+\makeMPintoPDFobject=\count339
+\everyMPtoPDFconversion=\toks40
+) (c:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+
+Package chemgreek Info: Activating mapping `default' on line 46.
+
+Package hyperref Info: Link coloring OFF on input line 46.
+
+(./ACS_Format_CBC_CSBC_ML.out) (./ACS_Format_CBC_CSBC_ML.out)
+\@outlinefile=\write4
+\openout4 = `ACS_Format_CBC_CSBC_ML.out'.
+
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 4
+7.
+
+(c:/texlive/2025/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+) (./Abstract-edit.tex
+
+[1
+
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/
+texmf-dist/fonts/enc/dvips/base/8r.enc}]) (./Introduction-edit.tex
+
+[2]
+Underfull \hbox (badness 1005) in paragraph at lines 16--17
+\OT1/cmr/m/n/10.95 li-braries, suf-fers from high false-
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 18--19
+[]|\OT1/cmr/m/n/10.95 Requires com-plex strate-gies and
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 28--29
+\OT1/cmr/m/n/10.95 ter-pret-ing and val-i-dat-ing pre-dic-
+ []
+
+
+Overfull \hbox (21.48868pt too wide) in paragraph at lines 10--32
+ [] 
+ []
+
+
+
+[3]
+
+[4]) (./Results_v2-edit.tex
+<cleandatadist.png, id=74, 861.4584pt x 584.6643pt>
+File: cleandatadist.png Graphic file (type png)
+<use cleandatadist.png>
+Package pdftex.def Info: cleandatadist.png  used on input line 5.
+(pdftex.def)             Requested size: 375.80574pt x 255.05846pt.
+
+
+[5]
+<SMOTEbw.png, id=86, 867.24pt x 578.16pt>
+File: SMOTEbw.png Graphic file (type png)
+<use SMOTEbw.png>
+Package pdftex.def Info: SMOTEbw.png  used on input line 17.
+(pdftex.def)             Requested size: 469.75539pt x 313.17216pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[6 <./cleandatadist.png> <./SMOTEbw.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]|\OT1/cmr/m/n/10.95 Molecule
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/10.95 ob-ject at
+ []
+
+
+Overfull \hbox (5.1445pt too wide) in paragraph at lines 46--47
+[]|\OT1/cmr/m/n/10.95 111010101$[]$| 
+ []
+
+
+Overfull \hbox (6.03076pt too wide) in paragraph at lines 47--47
+[]|\OT1/cmr/m/n/10.95 CCCCN1CCN(C(=O)$[]$| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+\OT1/cmr/m/n/10.95 ob-ject at
+ []
+
+
+Overfull \hbox (5.1445pt too wide) in paragraph at lines 47--48
+[]|\OT1/cmr/m/n/10.95 101110100$[]$| 
+ []
+
+
+Overfull \hbox (1.17728pt too wide) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/10.95 CHEMBL2029910| 
+ []
+
+
+Overfull \hbox (2.38075pt too wide) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/10.95 CN1CCN(C(=O)c2cc$[]$| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/n/10.95 ob-ject at
+ []
+
+
+Overfull \hbox (5.1445pt too wide) in paragraph at lines 48--49
+[]|\OT1/cmr/m/n/10.95 101010100$[]$| 
+ []
+
+
+Overfull \hbox (1.17728pt too wide) in paragraph at lines 50--50
+[]|\OT1/cmr/m/n/10.95 CHEMBL3813873| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/cmr/m/n/10.95 ob-ject at
+ []
+
+
+Overfull \hbox (5.1445pt too wide) in paragraph at lines 50--51
+[]|\OT1/cmr/m/n/10.95 111110101$[]$| 
+ []
+
+
+Overfull \hbox (17.03592pt too wide) in paragraph at lines 40--57
+ [] 
+ []
+
+<top10crudebitsv2.png, id=96, 1445.4pt x 813.0375pt>
+File: top10crudebitsv2.png Graphic file (type png)
+<use top10crudebitsv2.png>
+Package pdftex.def Info: top10crudebitsv2.png  used on input line 63.
+(pdftex.def)             Requested size: 433.62335pt x 243.91313pt.
+
+
+[7
+
+]
+
+[8 <./top10crudebitsv2.png>]
+<cluster.png, id=117, 847.968pt x 566.5968pt>
+File: cluster.png Graphic file (type png)
+<use cluster.png>
+Package pdftex.def Info: cluster.png  used on input line 86.
+(pdftex.def)             Requested size: 508.78473pt x 339.9607pt.
+
+Overfull \hbox (39.02934pt too wide) in paragraph at lines 86--87
+ [][] 
+ []
+
+
+
+[9 <./cluster.png>]
+<mostcommonbitv2.png, id=125, 2032.59375pt x 1445.4pt>
+File: mostcommonbitv2.png Graphic file (type png)
+<use mostcommonbitv2.png>
+Package pdftex.def Info: mostcommonbitv2.png  used on input line 116.
+(pdftex.def)             Requested size: 375.80574pt x 267.24043pt.
+
+
+[10 <./mostcommonbitv2.png (PNG copy)>]
+<csbc_cbc_xgb.png, id=131, 722.7pt x 433.62pt>
+File: csbc_cbc_xgb.png Graphic file (type png)
+<use csbc_cbc_xgb.png>
+Package pdftex.def Info: csbc_cbc_xgb.png  used on input line 163.
+(pdftex.def)             Requested size: 375.80574pt x 225.48369pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<auc_comparisonbw.png, id=132, 734.62456pt x 471.56175pt>
+File: auc_comparisonbw.png Graphic file (type png)
+<use auc_comparisonbw.png>
+Package pdftex.def Info: auc_comparisonbw.png  used on input line 170.
+(pdftex.def)             Requested size: 440.77814pt x 282.93922pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+
+[11] (./Discussion.tex
+<6_4_vs_39_14_bits_visualization_bw.png, id=143, 2032.59375pt x 1445.4pt>
+File: 6_4_vs_39_14_bits_visualization_bw.png Graphic file (type png)
+<use 6_4_vs_39_14_bits_visualization_bw.png>
+Package pdftex.def Info: 6_4_vs_39_14_bits_visualization_bw.png  used on input 
+line 9.
+(pdftex.def)             Requested size: 375.80574pt x 267.24043pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<79_5vs_6_4_bit_visualization_bw.png, id=144, 2032.59375pt x 1445.4pt>
+File: 79_5vs_6_4_bit_visualization_bw.png Graphic file (type png)
+<use 79_5vs_6_4_bit_visualization_bw.png>
+Package pdftex.def Info: 79_5vs_6_4_bit_visualization_bw.png  used on input lin
+e 19.
+(pdftex.def)             Requested size: 328.82733pt x 233.8271pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<82_14_vs_6_4_bits_visualization_bw.png, id=145, 2032.59375pt x 1445.4pt>
+File: 82_14_vs_6_4_bits_visualization_bw.png Graphic file (type png)
+<use 82_14_vs_6_4_bits_visualization_bw.png>
+Package pdftex.def Info: 82_14_vs_6_4_bits_visualization_bw.png  used on input 
+line 27.
+(pdftex.def)             Requested size: 328.82733pt x 233.8271pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<3_403_mol_inhibition.png, id=146, 2032.59375pt x 1445.4pt>
+File: 3_403_mol_inhibition.png Graphic file (type png)
+<use 3_403_mol_inhibition.png>
+Package pdftex.def Info: 3_403_mol_inhibition.png  used on input line 35.
+(pdftex.def)             Requested size: 375.80574pt x 267.24043pt.
+
+
+[12 <./csbc_cbc_xgb.png>]
+
+[13 <./auc_comparisonbw.png>]
+
+[14 <./6_4_vs_39_14_bits_visualization_bw.png (PNG copy)>]
+
+[15 <./79_5vs_6_4_bit_visualization_bw.png (PNG copy)>]
+
+[16 <./82_14_vs_6_4_bits_visualization_bw.png (PNG copy)> <./3_403_mol_inhibiti
+on.png (PNG copy)>]) (./Conclusion-edit.tex
+
+[17]) (./Materials and Methods-edit.tex
+
+[18]
+<Mprofile2.png, id=201, 1445.4pt x 813.0375pt>
+File: Mprofile2.png Graphic file (type png)
+<use Mprofile2.png>
+Package pdftex.def Info: Mprofile2.png  used on input line 18.
+(pdftex.def)             Requested size: 361.34912pt x 203.25888pt.
+
+
+[19 <./Mprofile2.png (PNG copy)>]
+<cbcv2.png, id=211, 1445.4pt x 813.0375pt>
+File: cbcv2.png Graphic file (type png)
+<use cbcv2.png>
+Package pdftex.def Info: cbcv2.png  used on input line 38.
+(pdftex.def)             Requested size: 476.98347pt x 268.3032pt.
+
+Overfull \hbox (7.22809pt too wide) in paragraph at lines 38--40
+ [][] 
+ []
+
+<csbcv2.png, id=212, 2258.4375pt x 813.0375pt>
+File: csbcv2.png Graphic file (type png)
+<use csbcv2.png>
+Package pdftex.def Info: csbcv2.png  used on input line 49.
+(pdftex.def)             Requested size: 496.85779pt x 178.8688pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[20 <./cbcv2.png (PNG copy)>]
+
+[21 <./csbcv2.png (PNG copy)>]
+<mol15_minus_mol135.png, id=234, 2032.59375pt x 1445.4pt>
+File: mol15_minus_mol135.png Graphic file (type png)
+<use mol15_minus_mol135.png>
+Package pdftex.def Info: mol15_minus_mol135.png  used on input line 76.
+(pdftex.def)             Requested size: 267.764pt x 190.4008pt.
+
+Overfull \hbox (31.00682pt too wide) detected at line 99
+[] [] [] [] []
+ []
+
+
+
+[22 <./mol15_minus_mol135.png (PNG copy)>]
+Overfull \hbox (19.05963pt too wide) in paragraph at lines 118--118
+ []|\OT1/cmr/bx/n/10.95 Mathematical 
+ []
+
+
+Overfull \hbox (3.93054pt too wide) detected at line 145
+[][][][] []\OML/cmm/m/it/10.95 w[] []y[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95
+ w \OMS/cmsy/m/n/10.95 ^^A \OML/cmm/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + \OML/cm
+m/m/it/10.95 b\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^U \OT1/cmr/m/n/10.95 1
+
+ []
+
+
+
+[23]
+
+[24])
+
+[25]
+
+Class achemso Warning: \bibliographystyle ignored on input line 77.
+
+(./ACS_Format_CBC_CSBC_ML.bbl
+
+[26
+
+]
+Underfull \hbox (badness 3884) in paragraph at lines 191--199
+[]\OT1/cmr/m/n/12 Cytion HCT116 Cell Line: A Com-pre-hen-sive Guide to Col-orec
+-tal Can-cer
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 191--199
+\OT1/cmr/m/n/12 Re-search. 2025; []$\OT1/cmtt/m/n/12 https : / / www . cytion .
+ com / Knowledge-[]Hub / Cell-[]Line-[]Insights /
+ []
+
+
+
+[27]) (./ACS_Format_CBC_CSBC_ML.bbl
+pdfTeX warning (ext4): destination with the same identifier (name{cite.araujo20
+18interdisciplinarity}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.30   Gonsalves]{araujo2018interdisciplinarity}
+                                                
+pdfTeX warning (ext4): destination with the same identifier (name{cite.article}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.38 ...em[Yu and Tham(2024)Yu, and Tham]{article}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{cite.ijms1906
+1578}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.47   Maroyi, and Dzobo]{ijms19061578}
+                                       
+pdfTeX warning (ext4): destination with the same identifier (name{cite.sellamut
+hu2023analog}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.57 ... and Manickavasagam]{sellamuthu2023analog}
+                                                  
+
+[28]
+pdfTeX warning (ext4): destination with the same identifier (name{cite.sun20229
+0}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.66 ....}(2022)Sun, Gao, Hu, and Zhou]{sun202290}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{cite.pinzi202
+4drug}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.74 ...)Pinzi, Bisi, and Rastelli]{pinzi2024drug}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{cite.martis20
+11highHTS}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.83   Badve]{martis2011highHTS}
+                                
+pdfTeX warning (ext4): destination with the same identifier (name{cite.chen2025
+fragment}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.91 \bibitem[Chen(2025)]{chen2025fragment}
+                                           
+pdfTeX warning (ext4): destination with the same identifier (name{cite.batool20
+19structure}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.100   Choi]{batool2019structure}
+                                  
+pdfTeX warning (ext4): destination with the same identifier (name{cite.garaci20
+24PDD}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.109   Puccetti, and Romani]{garaci2024PDD}
+                                            
+pdfTeX warning (ext4): destination with the same identifier (name{cite.ammad201
+4integrative}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.118 ...g, Poso, and Kaski]{ammad2014integrative}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{cite.cereto20
+15MF}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.129 ...ia-Vallv{\'e}, and Pujadas]{cereto2015MF}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{cite.christie
+1990MACCS}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.138   Moock]{christie1990MACCS}
+                                 
+pdfTeX warning (ext4): destination with the same identifier (name{cite.rogers20
+10extended}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.146 ...010)Rogers, and Hahn]{rogers2010extended}
+                                                  
+
+[29]
+pdfTeX warning (ext4): destination with the same identifier (name{cite.morgan19
+65generation}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.153 \bibitem[Morgan(1965)]{morgan1965generation}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{cite.keith202
+1qSAR}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.162 ...r, Muller, and Tkatchenko]{keith2021qSAR}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{cite.gao2023u
+ni-qsar}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.172   Zhang]{gao2023uni-qsar}
+                               
+pdfTeX warning (ext4): destination with the same identifier (name{cite.ChEMBL20
+23}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.181 ...tt, Hersey, Ramos, and Leach]{ChEMBL2023}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{cite.Cytion_H
+CT116}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.190 \bibitem[{Cytion}(2025)]{Cytion_HCT116}
+                                             
+Underfull \hbox (badness 3884) in paragraph at lines 191--199
+[]\OT1/cmr/m/n/12 Cytion HCT116 Cell Line: A Com-pre-hen-sive Guide to Col-orec
+-tal Can-cer
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 191--199
+\OT1/cmr/m/n/12 Re-search. 2025; []$\OT1/cmtt/m/n/12 https : / / www . cytion .
+ com / Knowledge-[]Hub / Cell-[]Line-[]Insights /
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{cite.gomatam2
+024SMOTE}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.199   Dixit]{gomatam2024SMOTE}
+                                
+pdfTeX warning (ext4): destination with the same identifier (name{cite.SML-form
+ulas}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.208 ...midi(2020)Amidi, and Amidi]{SML-formulas}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{cite.zhou2024
+dataquality}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.217   Chen]{zhou2024dataquality}
+                                  )
+
+Package natbib Warning: There were multiply defined citations.
+
+
+
+[30]
+<TOC_graphical.png, id=315, 1445.4pt x 813.0375pt>
+File: TOC_graphical.png Graphic file (type png)
+<use TOC_graphical.png>
+Package pdftex.def Info: TOC_graphical.png  used on input line 105.
+(pdftex.def)             Requested size: 241.83307pt x 135.15027pt.
+
+Overfull \hbox (6.95558pt too wide) in paragraph at lines 105--105
+[][] 
+ []
+
+
+Overfull \vbox (8.67778pt too high) detected at line 105
+ []
+
+
+
+[31 <./TOC_graphical.png (PNG copy)>] (./ACS_Format_CBC_CSBC_ML.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-14>
+ ***********
+Package rerunfilecheck Info: File `ACS_Format_CBC_CSBC_ML.out' has not changed.
+
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 15053 strings out of 470731
+ 246956 string characters out of 5495597
+ 677504 words of memory out of 5000000
+ 41379 multiletter control sequences out of 15000+600000
+ 643066 words of font info for 79 fonts, out of 8000000 for 9000
+ 430 hyphenation exceptions out of 8191
+ 84i,17n,131p,2471b,664s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
+live/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2025/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi6.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/
+texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/202
+5/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2025/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2025/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmti12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12
+.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texliv
+e/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on ACS_Format_CBC_CSBC_ML.pdf (31 pages, 5540058 bytes).
+PDF statistics:
+ 421 PDF objects out of 1000 (max. 8388607)
+ 326 compressed objects within 4 object streams
+ 99 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+

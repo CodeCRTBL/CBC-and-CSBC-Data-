@@ -1,0 +1,105 @@
+\documentclass[journal=jacsat,manuscript=article]{achemso}
+\usepackage[version=3]{mhchem} % Formula subscripts using \ce{}
+\newcommand*\mycommand[1]{\texttt{\emph{#1}}}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{helvet} % For custom fonts
+\usepackage{setspace} % For line spacing
+\usepackage{titlesec} % For title and section customization
+\usepackage{etoolbox} % For environment customization
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{ragged2e} % Add this to your preamble for justification options
+\usepackage[hidelinks]{hyperref}
+\usepackage{amsmath}
+\usepackage{chngcntr}
+\usepackage{threeparttable}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{placeins} % ensures centering of your figures
+\counterwithout{footnote}{section}
+
+%Subsection settings
+\titleformat{\subsection} % Targeting \subsubsection
+{\normalfont\normalsize\bfseries} % Font formatting
+{\thesubsubsection} % Numbering format
+{1em} % Spacing between number and title
+{} % Before the title
+
+
+\author{Raymond D. Cristobal}
+\email{rdcristobal@up.edu.ph}
+\altaffiliation{These authors contributed equally to this work}
+\author{Len Herald V. Lim}
+\email{lvlim@up.edu.ph}
+\altaffiliation{These authors contributed equally to this work}
+\affiliation[University of the Philippines, Diliman]
+{Institute of Chemistry,University of the Philippines, Diliman, Quzeon City, Philippines }
+
+\phone{(02) 8981-8500 loc. 3652}
+
+\title[An \textsf{achemso} demo]
+{Development of Crude Bit Counting (CBC) and Cluster Subtraction Bit Counting (CSBC) Machine Learning Models: CBC-ML and CSBC-ML For Classification of Molecules Activity Against HCT-116}
+
+\begin{document}
+	\maketitle
+	
+	\begin{abstract}
+	\input{Abstract-edit}
+	\end{abstract}
+	\section*{Introduction}
+	\input{Introduction-edit}
+	
+	\section*{Results}
+	\input{Results_v2-edit}
+	
+	\section*{Discussions}
+	\input{Discussion}
+	
+	\section*{Conclusion}
+	\input{Conclusion-edit}
+	
+	\section*{Materials and methods}
+	\input{Materials and Methods-edit}
+	
+	%\chapter{ACKNOWLEDGMENTS}
+	%	\input{acknowledgement}
+	
+	%\chapter{Appendix}
+	%	\input{Appendices}
+	
+	
+	% Ensure Bibliography starts on a new page
+	\clearpage
+	{\normalsize % Set font size for bibliography content
+		\bibliographystyle{plain} % Bibliography style
+		\bibliography{references}  % Reference to your .bib file
+	}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%% The "tocentry" environment can be used to create an entry for the
+	%% graphical table of contents. It is given here as some journals
+	%% require that it is printed as part of the abstract page. It will
+	%% be automatically moved as appropriate.
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\begin{tocentry}
+		\includegraphics[width=8.5cm,height=4.75cm]{TOC_graphical.png}
+	\end{tocentry}
+	
+		
+		\begin{suppinfo}
+		
+		Supplementary figures, raw data and png files of bits and parent molecules can be access through this \href{https://drive.google.com/drive/u/0/folders/1eBbbIDrqLvVmLYn7Lit_3JV7y-42jcaf}{\textbf{link}}.
+		
+	\end{suppinfo}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%% The appropriate \bibliography command should be placed here.
+	%% Notice that the class file automatically sets \bibliographystyle
+	%% and also names the section correctly.
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\bibliography{achemso-demo}
+	
+\end{document}

@@ -1,0 +1,175 @@
+\documentclass[12pt]{report}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{helvet} % For custom fonts
+\usepackage{setspace} % For line spacing
+\usepackage{titlesec} % For title and section customization
+\usepackage{etoolbox} % For environment customization
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{ragged2e} % Add this to your preamble for justification options
+\usepackage[hidelinks]{hyperref}
+\usepackage{amsmath}
+\usepackage{chngcntr}
+\usepackage{threeparttable}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{placeins} % ensures centering of your figures
+\counterwithout{footnote}{section}
+% Add this in your preamble
+\renewcommand{\thefootnote}{\arabic{footnote}}
+\setlength{\parindent}{0pt} % Remove indentation
+\justifying % Apply justified alignment globally
+\counterwithout{table}{chapter}
+\renewcommand{\thetable}{\arabic{table}}
+\counterwithout{figure}{chapter} % Detach figure numbering from chapters
+\renewcommand{\thefigure}{\arabic{figure}} % Use simple Arabic numbering: Figure 1, 2, 3, ...
+\counterwithout{equation}{chapter} % Detach equation numbering from chapters
+\renewcommand{\theequation}{\arabic{equation}} % Use Arabic numbering: Equation 1, 2, 3, ...
+\usepackage{hyperref} % If not already included
+\renewcommand{\equationautorefname}{Eq.}
+% Set double spacing globally
+\doublespacing
+\setlength{\parskip}{1.5em} % Adds vertical space between paragraphs
+\setlength{\parindent}{0pt} % Optional: removes paragraph indentation
+
+% Set page margins
+\newgeometry{
+	top = 1in,
+	bottom = 1in,
+	right = 1in,
+	left = 1in
+}
+% Bibliography title customization
+\renewcommand{\bibname}{%
+	\vspace{-1.45cm} % Space before title
+	\normalsize \textbf{REFERENCES} % Title
+	\vspace{-1cm} % Space after title
+}
+
+
+% Page Number Settings
+% Fancy header customization
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\fontsize{10}{12}\selectfont\textcolor{gray}\thepage} % Top-right page number
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+%Header and Footer 
+% Set header content with resized and colored text
+\fancyhead[L]{\fontsize{10}{12}\selectfont\textcolor{gray}{Cristobal and Lim : Running Head of the Study}}
+% Set footer content
+\fancyfoot[L]{\fontsize{10}{12}\selectfont\textcolor{gray}{*Corresponding Author:
+		lvlim@up.edu.ph;}}      % Left side of the footer
+
+% Apply fancy style to chapter-opening pages as well
+\fancypagestyle{plain}{%
+	\fancyhf{}
+	\fancyhead[R]{\fontsize{10}{12}\selectfont\textcolor{gray}\thepage} % Top-right page number
+	\fancyhead[L]{\fontsize{10}{12}\selectfont\textcolor{gray}{Cristobal and Lim : Running Head of the Study}}
+	\fancyfoot[L]{\fontsize{10}{12}\selectfont\textcolor{gray}{*Corresponding Author:
+			lvlim@up.edu.ph;}}
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
+}
+
+
+% Chapter Headings Settings
+\makeatletter
+\renewcommand{\@makechapterhead}[1]{%
+	\vspace*{0pt} % Vertical space above the chapter title
+	{\normalfont\normalsize\bfseries % Font style
+		\raggedright #1\par\nobreak} % Title text only (no "Chapter" word or number)
+	\vspace{20pt} % Space below chapter title
+}
+\makeatother
+
+% Section Heading Settings
+\titleformat{\section} % Section format
+{\normalfont\normalsize\bfseries} % Formatting for the section
+{\thesection} % Section numbering
+{1em} % Spacing between the number and the title
+{} % No extra content before the section title
+
+% Subsection Heading Settings
+\titleformat{\subsection} % Subsection format
+{\normalfont\small\bfseries} % Formatting for the subsection
+{\thesubsection} % Subsection numbering
+{1em} % Spacing between the number and the title
+{} % No extra content before the subsection title
+% Remove extra space before the title
+
+%Subsection Heading Settings
+\titleformat{\subsubsection}[hang]
+{\normalfont\normalsize\itshape}
+{\thesubsubsection} % Numbering
+{1em} % Horizontal space (indentation)
+{}
+
+\makeatletter
+\renewcommand{\maketitle}{%
+	\begin{center}
+		\vspace{-1.5cm} % Reduce vertical space above the title
+		{\normalsize \bfseries \@title \par} % Title
+		\vspace{0.5cm} % Space between title and author
+		{\normalsize \@author \par} % Author(s)
+		\vspace{1cm} % Space between author and affiliations
+		{\small % Smaller font for affiliations
+			\begin{tabular}{c} % Align left; change "l" to "c" for center alignment
+				\textsuperscript{1} Insititute of Chemistry, University of the Philippines, Diliman, Quezon City, NCR, 1101, Philippines \\ % Affiliation 1
+				\textsuperscript{2} Insititute of Chemistry, University of the Philippines, Diliman, Quezon City, NCR, 1101, Philippines % Affiliation 2
+			\end{tabular}
+			\vspace{2cm}
+			\\
+			{\normalsize Keywords: Morgan Fingerprinting Algorithm, Bit Counting, Structure Subtraction, Machine Learning, Quantitative Structure Activity Relationship}
+		}
+		\vspace{1cm} % Space after affiliations
+	\end{center}
+}
+\makeatother
+% Title and Author Information
+\title{Development of Crude Bit Counting (CBC) and Cluster Subtraction Bit Counting (CSBC) Machine Learning Models: CBC-ML and CSBC-ML For Classification of Molecules Activity Against HCT-116}
+\author{Raymond D. Cristobal\textsuperscript{1} \ and Len Herald V. Lim*\textsuperscript{2}}
+
+% Apply 12pt to thebibliography environment
+\AtBeginEnvironment{thebibliography}{\normalsize}
+
+\begin{document}
+	\maketitle
+	
+	\chapter{ABSTRACT}
+	\input{Abstract-edit}
+	
+	\chapter{INTRODUCTION}
+	\input{Introduction-edit}
+	
+	\chapter{MATERIALS AND METHODS}
+	\input{Materials and Methods-edit}
+	
+	\chapter{RESULTS}
+	\input{Results_v2-edit}
+	
+	\chapter{DISCUSSIONS}
+	\input{Discussion}
+		
+	\chapter{CONCLUSION}
+	\input{Conclusion-edit}
+	
+	%\chapter{ACKNOWLEDGMENTS}
+%	\input{acknowledgement}
+	
+	%\chapter{Appendix}
+%	\input{Appendices}
+	
+	
+	% Ensure Bibliography starts on a new page
+	\clearpage
+	{\normalsize % Set font size for bibliography content
+		\bibliographystyle{plain} % Bibliography style
+		\bibliography{references}  % Reference to your .bib file
+	}
+	
+\end{document}
